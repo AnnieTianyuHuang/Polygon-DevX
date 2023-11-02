@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Pinnect
 Game-map collaboration, all for gammers.
 ![Pinnect.001.jpeg](/images/Pinnect.001.jpeg)
@@ -68,3 +69,6 @@ Contribute on-chain for fair incentive and collaboration
 **Annie Huang**
 CS + Business Sophomore @ UC Berkeley, ETH Denver NFT Track Award Winner, Canada National Book Award Winner, NCWIT Award Winner.
 
+=======
+# Polygon-DevX
+>>>>>>> Stashed changes
